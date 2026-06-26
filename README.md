@@ -7,7 +7,7 @@ Managing inventory and ensuring an efficient supply chain are critical for busin
 
 ## 🚀 Project Highlights
 
-In this project, you’ll learn how to:
+In this project, I learn how to:
 - 🧹 **Data Cleaning & Transformation**: Use Power Query to clean and model supply chain datasets.
 - 📦 **Inventory Metrics**: Track stock levels, turnover rates, reorder points, and backorders.
 - 🚚 **Supply Chain KPIs**: Analyze lead times, delivery performance, and supplier reliability.
@@ -16,3 +16,4 @@ In this project, you’ll learn how to:
 - 🗺️ **Real-World Storytelling Techniques**: Present supply chain data effectively for business stakeholders.
 
 ---
+<img width="1772" height="1012" alt="image" src="https://github.com/user-attachments/assets/97f5e2a1-6746-4c20-94cf-169bb10b0f6a" />
